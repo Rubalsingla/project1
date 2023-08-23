@@ -1,1 +1,5 @@
+data from feature 1 file feature branch
+
+by rubal singla1
+
 This is feature file from feature branch 1
