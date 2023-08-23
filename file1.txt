@@ -1,4 +1,12 @@
 hello from remote repo
 
 
+
 feature2 changes
+
+changes in feature1
+
+
+changes in master
+
+
