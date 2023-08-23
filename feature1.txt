@@ -1,4 +1,10 @@
+
+data from feature 1 file feature branch
+
+by rubal singla1
+
 this is data by rubal singla from master branch
+
 
 
 This is feature file from feature branch 1
